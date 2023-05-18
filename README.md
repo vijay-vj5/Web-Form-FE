@@ -1,28 +1,21 @@
 
-# CRUD Module
+# Web Form
 
-This is a CRUD module for capturing basic user data using a form, storing it in a MongoDB database after validation, and displaying it as a listing. MongoDB is a NoSQL database that stores data in a flexible, document-based format. The application allows users to edit or delete data from the listing. The application is built using frontend library React for the user interface and backend framework such as Express.js for server side. 
+This is a simple Web Form that performs the CRUD operations for capturing basic user data using a form, storing it in a MongoDB database after validation, and displaying it as a listing. MongoDB is a NoSQL database that stores data in a flexible, document-based format. The application allows users to edit or delete data from the listing. The application is built using frontend library React for the user interface and backend framework such as Express.js for server side. 
 
 
 
 ##  Table of Contents
 
-- [Screenshots](#screenshots)
-- [Demo](#demo)
+
 - [Features](#features)
 - [Installation](#installation)
 - [Dependencies](#dependencies)
 - [Documentations](#documentations)
 - [License](#license)
 - [Badges](#badges)
-## Screenshots
-
-![App Screenshot](https://www.linkpicture.com/q/UI-Image.png)
 
 
-## Demo
-
-- https://crudmodule.netlify.app/
 
 
 ## Features
