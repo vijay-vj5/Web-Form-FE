@@ -47,7 +47,6 @@ CRUD-Module-Frontend :
 ```bash
 React (version 18.2.0 or later)
 React DOM (version 18.2.0 or later)
-React Icons 
 ```
 
 ## Documentations
